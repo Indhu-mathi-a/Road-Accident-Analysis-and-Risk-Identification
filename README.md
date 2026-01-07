@@ -69,7 +69,7 @@ The dashboard provides a clear visual overview of:
 ## Author
 
 **Indhumathi A**
-Student – Data Analysis
+-Student
 
 ---
 
